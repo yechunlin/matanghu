@@ -1,0 +1,17 @@
+{
+    "name": "lashu/matanghu",
+    "description": "Echo Hello World",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yechunlin",
+            "email": "yechunlin@corp-ci.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Matanghu\\": "src/"}
+    }
+}
