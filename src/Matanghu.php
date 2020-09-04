@@ -1,6 +1,6 @@
 <?php
 namespace Matanghu;
-class ShowHello
+class Matanghu
 {
 	public static function show()
 	{
